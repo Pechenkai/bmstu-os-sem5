@@ -1,0 +1,19 @@
+# Fdb version 4
+["pdflatex"] 1726697813.4838 "/home/vasiliy/Documents/study/3rd_course/1st_sem/OS/lab_01/hello.tex" "hello.pdf" "hello" 1726697814.08297 0
+  "/etc/texmf/web2c/texmf.cnf" 1726693118.21308 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/vasiliy/Documents/study/3rd_course/1st_sem/OS/lab_01/hello.tex" 1726697812.36022 69 c08ee42e09218138cee61c3f505e491a ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1705352648 20144 147463a6a579f4597269ef9565205cfe ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo" 1705352648 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1704491087 30006 57b07afb710ee2f649c65cfbafda39c1 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1726694598.77921 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1726694631 8213461 d049162ecbfe964f6b14dae98691b849 ""
+  "hello.aux" 1726697813.99819 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "hello.tex" 1726697812.36022 69 c08ee42e09218138cee61c3f505e491a ""
+  (generated)
+  "hello.aux"
+  "hello.log"
+  "hello.pdf"
+  (rewritten before read)
